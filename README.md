@@ -59,6 +59,8 @@ Gameplay elements will include:
     - equipment
        - automatic taking
     - stats
+    - unit may train & increase strength, it's a low process so better units are extremely valuable
+      - better units eat more & cost more
  - fight
     - guns, scarce ammo
     - manual fight, abundant weapons
