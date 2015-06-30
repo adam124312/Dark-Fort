@@ -10,6 +10,7 @@ Gameplay elements will include:
     * things are pretty tough and repair is not profitable
     * player should get attached to units, like them / hate them
 * constant stress, desperation
+   * allies will try to deceive player, saying that they are friends and trying to act for their own good
     * player under constant stress from slow-moving zombies, which are hard to kill
     * always something is too low (e.g. water)
     * it's very hard to do anything without using scarce resources
