@@ -4,10 +4,21 @@ Dark Fort is a 2d strategy survival game where you want to maintain your kingdoo
 ### Gameplay
 Gameplay elements will include:
 * hard decisions no option is good
-* sacrifices (decisions)
-* important resources are scarce, other resources are very abundant but much work is needed to gather them
-* things are pretty tough and repair is not profitable
-* player should get attached to units, like them / hate them
+    * sacrifices (decisions)
+    * important resources are scarce, other resources are very abundant but much work is needed to gather them
+        * different appearances for abundant resources e.g. food: carrots, meat, fish
+    * things are pretty tough and repair is not profitable
+    * player should get attached to units, like them / hate the
+* constant stress, desperation
+    * player under constant stress from slow-moving zombies, which are hard to kill
+    * always something is too low (e.g. water)
+    * it's very hard to do anything without using scarce resources
+        * killing zombie withuot using ammo
+        * inventing antidote without using potion or humans
+* feeling of slow dying
+    * everyone is hard to kill but easy to weaken, almost all have some disfunction all the time
+    * zombies are very hard to kill
+* many creatures don't attack, everyone fights for resources
 * and more!
 
 ### Possible features
