@@ -7,6 +7,7 @@ Gameplay elements will include:
 * sacrifices (decisions)
 * important resources are scarce, other resources are very abundant
 * things are pretty tough but repair is not profitable
+* player should get attached to units, like them / hate them
 * and more!
 
 ### Possible features
@@ -17,14 +18,14 @@ Gameplay elements will include:
     - warehouse with visible resource that you have
     - crisis management decisions
         - choices of human sacrifices
- - scarce resources
+- scarce resources
     - ammo
     - potions
- - abundant resources - abundant but giving very little (much work is needed to gather it)
+- abundant resources - abundant but giving very little (much work is needed to gather it)
     - food
     - water
     - zombies
- - squads
+- squads
     - zombie hunting
     - relative safe movement
     - almost always they return infected with unknown disease
