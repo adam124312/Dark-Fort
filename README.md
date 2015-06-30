@@ -52,5 +52,16 @@ Gameplay elements will include:
     - raids from other forts
     - you can't produce another unit, people are scarce
 
+### Version 0.0 planned features
+- One player    
+    - simple stats
+        - health & speed)
+- one type of zombies
+- sprites
+- sounds (external resources)
+- fighting system
+    - hand-to-hand only
+- 1 disease
+
 ### Contact & Contribute
 Don't hesitate to contact me via github or add feature requests
