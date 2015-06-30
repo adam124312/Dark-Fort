@@ -70,7 +70,8 @@ Gameplay elements will include:
 ### Version 0.0 planned features
 - One player    
     - simple stats
-        - health & speed)
+        - health
+        - speed
 - one type of zombies
 - sprites
 - sounds (external resources)
