@@ -8,7 +8,7 @@ Gameplay elements will include:
     * important resources are scarce, other resources are very abundant but much work is needed to gather them
         * different appearances for abundant resources e.g. food: carrots, meat, fish
     * things are pretty tough and repair is not profitable
-    * player should get attached to units, like them / hate the
+    * player should get attached to units, like them / hate them
 * constant stress, desperation
     * player under constant stress from slow-moving zombies, which are hard to kill
     * always something is too low (e.g. water)
