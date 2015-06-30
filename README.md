@@ -41,6 +41,7 @@ Gameplay elements will include:
     - zombie hunting
     - relative safe movement
     - almost always they return infected with unknown disease
+    - squads are autonomic, they will act according to set policies (e.g. use ammo, be careful / be fast)
 - diseases
     - most deseases are harmless, a few are deadly
     - mutating constantly
