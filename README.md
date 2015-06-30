@@ -9,12 +9,13 @@ Gameplay elements will include:
     * scarce resources
 * and more!
 
-### Features
+### Possible features
 - scarce potions
 - scarce antidotes
 - diseases
-    - mutations
     - most deseases are harmless, a few are deadly
+       - mutating
+    - most diseases are not known, research
     - generated, various impacts on habitants
     - option to research new kinds of deseases & attack other forts
 - doctors have improvements e.g. test chambers
@@ -27,7 +28,8 @@ Gameplay elements will include:
     - information if we know he is healthy / rather healthy / don't know / desease (what desease)
     - equipment
        - automatic
-
+    - stats
+- guns, scarce ammo
 
 ### Contact & Contribute
 Don't hesitate to contact me via github or add feature requests
