@@ -8,7 +8,7 @@ Gameplay elements will include:
     * sacrifices
     * scarce resources
 * and more!
-* 
+
 ### Features
 - scarce potions
 - scarce antidotes
