@@ -7,7 +7,7 @@ Gameplay elements will include:
 * no option is good
 * sacrifices
 * scarce resources
-and more
+* and more!
 
 ### Contact & Contribute
 Don't hesitate to contact me via github or add feature requests
