@@ -4,9 +4,9 @@ Dark Fort is a 2d strategy survival game where you want to maintain your kingdoo
 ### Gameplay
 Gameplay elements will include:
 * hard decisions
-* no option is good
-* sacrifices
-* scarce resources
+    * no option is good
+    * sacrifices
+    * scarce resources
 * and more!
 
 ### Contact & Contribute
