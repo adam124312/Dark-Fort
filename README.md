@@ -1,12 +1,12 @@
 ### About
-Dark Fort is a 2d strategy survival game where you want to maintain your kingdoom alive as long as possible in a world of danger
+Dark Fort is a 2d strategy survival game where you want to maintain your kingdoom alive as long as possible in an extremely hostile post-apocalyptic world
 
 ### Gameplay
 Gameplay elements will include:
 * hard decisions no option is good
 * sacrifices (decisions)
-* important resources are scarce, other resources are very abundant
-* things are pretty tough but repair is not profitable
+* important resources are scarce, other resources are very abundant but much work is needed to gather them
+* things are pretty tough and repair is not profitable
 * player should get attached to units, like them / hate them
 * and more!
 
