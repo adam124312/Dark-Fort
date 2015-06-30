@@ -21,6 +21,7 @@ Gameplay elements will include:
 - scarce resources
     - ammo
     - potions
+    - gas
 - abundant resources - abundant but giving very little (much work is needed to gather it)
     - food
     - water
@@ -49,6 +50,9 @@ Gameplay elements will include:
     - stats
  - fight
     - guns, scarce ammo
+    - manual fight, abundant weapons
+    - many guns but no ammo
+    - viehicles but no gas
     - raids from other forts
     - you can't produce another unit, people are scarce
 
