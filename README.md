@@ -71,7 +71,7 @@ Gameplay elements will include:
     - raids from other forts
     - you can't produce another unit, people are scarce
 
-### Version 0.0 planned features
+### Version 1.0 planned features
 - One player    
     - simple stats
         - health
