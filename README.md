@@ -1,5 +1,5 @@
 ### About
-Dark Fort is a 2d strategy survival game where you want to maintain your kingdoom alive as long as possible in an extremely hostile post-apocalyptic world
+Dark Fort is a 2d strategy survival game where you want to maintain your kingdoom alive as long as possible in an extremely hostile post-apocalyptic world. 
 
 ### Story
 Ebola-like virus created in labolatories got our of control during III World War, human efforts led 10% of population to be immune to the virus in the air, a few people get together to arrange a living
@@ -24,6 +24,7 @@ Gameplay feeling will include:
     * everyone is hard to kill but easy to weaken, almost all have some disfunction all the time
     * zombies are very hard to kill
 * many creatures don't attack, everyone fights for resources
+* 2D Graphics will make players imagine, like in old games
 
 ### Possible features
 - Fort
