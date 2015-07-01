@@ -1,6 +1,9 @@
 ### About
 Dark Fort is a 2d strategy survival game where you want to maintain your kingdoom alive as long as possible in an extremely hostile post-apocalyptic world
 
+### Story
+Ebola-like virus created in labolatories got our of control during III World War, human efforts led 10% of population to be immune to the virus in the air, a few people get together to arrange a living
+
 ### Gameplay
 Gameplay feeling will include:
 * hard decisions no option is good
@@ -11,6 +14,7 @@ Gameplay feeling will include:
     * player should get attached to units, like them / hate them
 * constant stress, desperation
    * allies will try to deceive player, saying that they are friends and trying to act for their own good
+   * everything is safe but has attacks that seem to happen at random
     * player under constant stress from slow-moving zombies, which are hard to kill
     * always something is too low (e.g. water)
     * it's very hard to do anything without using scarce resources
@@ -33,10 +37,14 @@ Gameplay feeling will include:
     - ammo
     - potions
     - gas
-- abundant resources - abundant but giving very little (much work is needed to gather it)
+    - animals
+- abundant resources
+   - abundant but giving very little (much work is needed to gather it)
+   - many kinds e.g. food: fruits, carrots, legumbres
     - food
     - water
     - zombies
+    - wood (to make fortifications)
 - squads
     - zombie hunting
     - relative safe movement
@@ -49,6 +57,14 @@ Gameplay feeling will include:
     - most diseases are not known, research
     - generated, various impacts on habitants
     - option to research new kinds of deseases & attack other forts
+    - a lot of safe symptoms which are similar to deseases
+    - diseases are safe but dangerous during attacks
+    - there is an option of quarantinne (binding a sick to a pole / into cage)
+- zombies 
+    - 3 types
+       - zombie (dead)
+          - possible to eat zombies after research
+       - lunatic (not dead but uncontrolled because of disease) (usually safe)
 - potions
      - scarce potions (to create various stats-increasing effects)
      - scarce antidotes
