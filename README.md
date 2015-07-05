@@ -32,6 +32,7 @@ Gameplay feeling will include:
         - doctors have improvements e.g. test chambers
     - walls
     - warehouse with visible resource that you have
+    - tactical defences planning, some forts won't survive (you build many defense sites)
     - crisis management decisions
         - choices of human sacrifices
 - scarce resources
@@ -79,11 +80,15 @@ Gameplay feeling will include:
     - stats
     - unit may train & increase strength, it's a low process so better units are extremely valuable
       - better units eat more & cost more
+    - unit may be in two states under psychological stress (when fighting is close) or calm, may panic / faint after threshold
  - fight
-    - guns, scarce ammo
-    - manual fight, abundant weapons
+    - guns & bows
+    - scarce ammo
+    - abundant generated armour
+    - abundant generated manual weapons
+    - different materials, crafting
     - many guns but no ammo
-    - viehicles but no gas
+    - viehicles but no gas - but you can hide inside
     - raids from other forts
     - you can't produce another unit, people are scarce
 
