@@ -91,6 +91,8 @@ Gameplay feeling will include:
     - viehicles but no gas - but you can hide inside
     - raids from other forts
     - you can't produce another unit, people are scarce
+    - many generated objects have "provisional" in their name
+    - instead of normal damage, the more important will be e.g. putting fork into eye / aretha / damages which will last, damage system
 
 ### Version 1.0 planned features
 - One player    
