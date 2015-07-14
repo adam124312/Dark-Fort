@@ -81,6 +81,7 @@ Gameplay feeling will include:
     - unit may train & increase strength, it's a low process so better units are extremely valuable
       - better units eat more & cost more
     - unit may be in two states under psychological stress (when fighting is close) or calm, may panic / faint after threshold
+    - ui displays information that is not completed e.g. "that is a dead zombie. it ... moves?" when zombie resurects, ui doesn't give all information, is imperfect
  - fight
     - guns & bows
     - scarce ammo
