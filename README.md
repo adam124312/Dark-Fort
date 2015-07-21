@@ -3,11 +3,8 @@ Dark Fort is a 2d strategy survival game where you want to maintain your kingdoo
 
 ### Download
 DarkFort is created using unity.
-You can play this game online here: version 0.8
-or download:
-for windows
-for mac
-for linux
+You can play this game online here: <https://cdn.rawgit.com/adamstepinski/Dark-Fort/master/web/Builds.html>
+or download from github account using the link above
 
 ### Story
 Ebola-like virus created in labolatories got our of control during III World War, human efforts led 10% of population to be immune to the virus in the air, a few people get together to arrange a living
