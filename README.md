@@ -51,11 +51,13 @@ Gameplay feeling will include:
     - water
     - zombies
     - wood (to make fortifications)
+    - herbs (for vaccines)
 - squads
     - zombie hunting
     - relative safe movement
     - almost always they return infected with unknown disease
     - squads are autonomic, they will act according to set policies (e.g. use ammo, be careful / be fast)
+    - experimenting on zombies may lead to "reprogramming them" and use in defence
 - diseases
     - most deseases are harmless, a few are deadly
     - mutating constantly
@@ -66,6 +68,7 @@ Gameplay feeling will include:
     - a lot of safe symptoms which are similar to deseases
     - diseases are safe but dangerous during attacks
     - there is an option of quarantinne (binding a sick to a pole / into cage)
+    - vaccine system based on herbs collected and other factors (experimenting on zombies)
 - zombies 
     - 3 types
        - zombie (dead)
