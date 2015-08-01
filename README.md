@@ -35,10 +35,13 @@ Gameplay feeling will include:
     - research center
         - doctors have improvements e.g. test chambers
     - walls
-    - warehouse with visible resource that you have
+    - warehouse with visible resource that you have, one place at the center
     - tactical defences planning, some forts won't survive (you build many defense sites)
     - crisis management decisions
         - choices of human sacrifices
+    - you come across other forts which were destroyed by zombie
+    - sounds e.g. trying to breach the gate, far screaming
+    - you are not the strongest force, there are groups who are stronger than you and you have to negotiate with them, dynamic groups (ceration, division, extinction of other forts and communities)
 - scarce resources
     - ammo
     - potions
